@@ -1,5 +1,4 @@
 "Hello world" 
 Second line
 THIRD
-Fourth
 Fifth
